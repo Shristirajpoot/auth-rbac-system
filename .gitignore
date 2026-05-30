@@ -1,0 +1,30 @@
+# Extracted Java & Maven folders
+/jdk-extract/
+/maven-extract/
+
+# Backend Build folders
+backend/target/
+backend/bin/
+backend/.settings/
+backend/.classpath
+backend/.project
+
+# Frontend Node Modules & Production Builds
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# IDE configurations
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
